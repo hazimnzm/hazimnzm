@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to My Profile! I'm Hazim.
 
-<!--
-**hazimnzm/hazimnzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Universiti Malaya passionate about developing clean, performant full-stack systems and exploring smart digital solutions.
 
-Here are some ideas to get you started:
+### 💡 What I Do
+* **Full-Stack Development:** Building modern UI/UX with React/Next.js and robust RESTful backends with Node.js and Spring Boot.
+* **Databases & DevOps:** Schema design, RLS policies, and containerized deployments using Docker and PostgreSQL.
+* **Side Projects:** Ranging from health tracking applications to IoT monitoring platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Technical Toolkit
+* **Languages:** JavaScript (ES6+), TypeScript, Java, Python, SQL
+* **Frontend:** React, React Native, Next.js, Tailwind CSS
+* **Backend:** Node.js, Express, Spring Boot, Supabase
+* **Tools & Infrastructure:** Git, Docker, Postman, Grafana, Linux
+
+---
